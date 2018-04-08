@@ -6,4 +6,6 @@
 
 #### Neural Network with tensorflow
 
-#### Convential Neural Network with tensorflow
+#### Conventional Neural Network with tensorflow
+
+#### Result
