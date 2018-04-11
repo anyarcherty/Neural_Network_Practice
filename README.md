@@ -10,9 +10,16 @@
 
 #### Neural Network with 2 feature in MINST dataset without tensorflow
 
-#### Neural Network without tensorflow
+#### Neural Network with MINST Dataset
 
-#### Neural Network with tensorflow
+   * Without Tensorflow
+   
+   * With Tensorflow
+
 
 #### Conventional Neural Network with tensorflow
+     
+   * Low Level API
+   
+   * High Level API
 
