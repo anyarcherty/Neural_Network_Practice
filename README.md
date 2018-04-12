@@ -10,6 +10,10 @@
 
    * Logistic Regression
    
+      * Stochastic
+      
+      * Batch
+   
    * Neural Network
 
 #### Neural Network with MINST Dataset
