@@ -16,10 +16,10 @@
    
    * Neural Network
    
-      | Dataset | Batch | Stochastic | Neural Network|
+      | Method | Batch | Stochastic | Neural Network|
       |---------|-------|------------|---------------|
-      | Train   | 0.937 | 0.960      |    0.995         |
-      | Test    | 0.942 | 0.954      |    0.991         |
+      | Train Accurary  | 0.937 | 0.960      |    0.995         |
+      | Test Accurary   | 0.942 | 0.954      |    0.991         |
       
       
 
