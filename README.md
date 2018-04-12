@@ -18,14 +18,11 @@
 
 #### Neural Network with MINST Dataset
 
-   * Without Tensorflow
-   
-   * With Tensorflow
+   * Neural Network 
 
-
-#### Conventional Neural Network with MINST Dataset
+   * Conventional Neural Network
      
-   * Low Level API
+      * Low Level API
    
-   * High Level API
+      * High Level API
 
