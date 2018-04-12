@@ -18,11 +18,10 @@
    
       | Dataset | Batch | Stochastic | Neural Network|
       |---------|-------|------------|---------------|
-      | Train   | 0.937 | 0.960      | 0.995         |
-      | Test    | 0.942 | 0.954      | 0.991         |
+      | Train   | 0.937 | 0.960      |    0.995         |
+      | Test    | 0.942 | 0.954      |    0.991         |
       
       
-      | Test    | 0.942 | 0.954      | 0.991         |
 
 #### Neural Network with MINST Dataset
 
