@@ -32,4 +32,9 @@
       * Low Level API
    
       * High Level API
+      
+      | Method | Neural Network | CNN Low API | CNN high API|
+      |---------|-------|------------|---------------|
+      | Train Accurary  | 0.937 | 0.960      |    0.989         |
+      | Test Accurary   | 0.942 | 0.954      |    0.989         |
 
